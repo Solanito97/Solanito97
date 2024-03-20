@@ -1,4 +1,4 @@
-# Hi, I'm Solano97👋
+# Hi, I'm Solano👋
 <a href="https://github.com/Solanito97/github-readme-stats">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Solanito97&show_icons=true&theme=radical" />
 </a>
