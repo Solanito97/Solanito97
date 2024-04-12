@@ -13,12 +13,6 @@
   <a href="https://www.linkedin.com/in/solano97?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/byron_solanoo?igsh=MTJtNW43dWU4M2NiYw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCOCNaqYCCw6RrjP2DFhqloQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="40" alt="youtube logo"  />
-  </a>
 </div>
 
 ###
